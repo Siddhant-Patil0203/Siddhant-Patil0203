@@ -41,7 +41,7 @@
 </p>
 
 <br>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddhant-patil0203&show_icons=true&locale=en&layout=compact" alt="siddhant-patil0203" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddhant-patil0203&show_icons=true&theme=radical&count_private=true&hide=starslocale=en&layout=compact" alt="siddhant-patil0203" /></p>
 <br>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siddhant-patil0203&show_icons=true&theme=radical&count_private=true&hide=starslocale=en" alt="siddhant-patil0203" /></p>
 <br>
