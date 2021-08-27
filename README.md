@@ -1,9 +1,19 @@
-![MastHead](https://github.com/Siddhant-Patil0203/Siddhant-Patil0203/blob/2b7fb796fc40ea2f507affa96f3dac68804fa799/My%20Background.png)
+![Banner](https://github.com/Siddhant-Patil0203/Siddhant-Patil0203/blob/2b7fb796fc40ea2f507affa96f3dac68804fa799/My%20Background.png)
 <h1 align="center">Hola👋, I'm Siddhant Patil</h1>
 <h3 align="center">Cognitive and Enthusiastic Student of GCOEN.</h3>
 
-<p> Hey, This is siddhant patil from Government College of Engineering, nagpur. I just love Computer Science ❤️. As a fresher i am very curious to explore the different technology domains. It gives me good vibes and statisfaction to code 🥰. Apart from tech geek I also like to play sports and volleyball 🏐 is my favourite sport. And I also like to make friends and connect with new peoples 🙂. "Everyone teaches you one thing or other".</p>
-  
+<h3>About me:</h3>
+
+<p>
+👨‍🎓 Hey, This is siddhant patil, 1st year Computer Science Undergrad.<br> 
+💻 I just love Computer Science ❤️.<br>
+🤔 As a fresher i am very curious to explore the different technology domains.<br>
+🥰 It gives me good vibes and statisfaction to code.<br>
+🏐 Apart from tech geek I also like to play sports and volleyball is my favourite sport.<br>
+🙂 I also like to make friends and connect with new peoples. <br>
+🔥  "Everyone teaches you one thing or other".<br>
+</p><div>
+
 <h3 align="center">My Tech Stack</h3>
 
 <p align="center"><img src="https://github.com/Siddhant-Patil0203/Siddhant-Patil0203/blob/92dbb84abea9ff35d5b281c61de0cea2db908fd6/Tech%20stack.png"></p>
