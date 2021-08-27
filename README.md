@@ -2,7 +2,7 @@
 <h1 align="center">Hola👋, I'm Siddhant Patil</h1>
 <h3 align="center">Cognitive and Enthusiastic Student of GCOEN.</h3>
 
-<p align="center"><img src="https://github.com/Siddhant-Patil0203/Siddhant-Patil0203/blob/e8651bd5fefb03a9263d63be1946fd922ab92026/Tech%20stack.png"></p>
+<p align="center"><img src="https://github.com/Siddhant-Patil0203/Siddhant-Patil0203/blob/92dbb84abea9ff35d5b281c61de0cea2db908fd6/Tech%20stack.png"></p>
 
 <h3 align="center">My Tech Stack</h3>
 <br>
