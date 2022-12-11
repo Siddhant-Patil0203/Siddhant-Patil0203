@@ -5,7 +5,7 @@
 <h3>About me:</h3>
 
 <p>
-👨‍🎓 Hey, This is siddhant patil, 1st year Computer Science Undergrad.<br> 
+👨‍🎓 Hey, This is siddhant patil, 3rd year Computer Science Undergrad.<br> 
 💻 I just love Computer Science ❤️.<br>
 🤔 As a fresher i am very curious to explore the different technology domains.<br>
 🥰 It gives me good vibes and statisfaction to code.<br>
