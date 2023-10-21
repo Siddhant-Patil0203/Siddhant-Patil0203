@@ -15,7 +15,6 @@
 🔥  "Everyone teaches you one thing or other".<br>
 </p><div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Siddhant-patil0203)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <h3 align="center">My Tech Stack</h3>
